@@ -1,0 +1,8 @@
+--name defect
+--display
+--batchSize 16
+--niter 180
+--niter_decay 180
+--lr 0.0003
+--continue_train
+--student_type 0

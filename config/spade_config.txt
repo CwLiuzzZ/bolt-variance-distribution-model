@@ -1,0 +1,4 @@
+--name defect
+--display
+--loadSize 256
+--DataParallel

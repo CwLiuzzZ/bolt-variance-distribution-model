@@ -1,0 +1,7 @@
+--name defect
+--display
+--batchSize 8
+--niter 40
+--niter_decay 30
+--lr 0.0002
+--continue_train

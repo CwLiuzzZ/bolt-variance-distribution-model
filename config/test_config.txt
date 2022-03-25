@@ -1,0 +1,5 @@
+--name defect
+--display
+--loadSize 256
+--dataroot ./dataset/defect
+--student_type 0
